@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrice Atin</h1>
-<h3 align="center">A web developer junior from France</h3>
+<h3 align="center">A web developer junior from Coda School</h3>
 
 
 - 🔭 I’m currently working on **my portfolio**
