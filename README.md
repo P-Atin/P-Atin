@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Patrice Atin</h1>
-<h3 align="center">A web developer junior from Coda School</h3>
+<h1 align="center">Hi 👋, I'm Elie Atin</h1>
+<h3 align="center">A web developer junior from SUPINFO SCHOOL</h3>
 
 
 - 🔭 I’m currently working on **an e-commerce website with typescript & react**
