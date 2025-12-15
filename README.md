@@ -2,9 +2,9 @@
 <h3 align="center">A web developer junior from Coda School</h3>
 
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **an e-commerce website with typescript & react**
 
-- 🌱 I’m currently learning **react, javascript**
+- 🌱 I’m currently learning **react, next.js**
 
 - 📫 How to reach me **patriceatin@gmail.com**
 
