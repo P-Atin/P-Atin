@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elie Atin</h1>
+<h1 align="center">Hi 👋, I'm Patrice Atin</h1>
 <h3 align="center">A web developer junior from SUPINFO SCHOOL Paris</h3>
 
 
